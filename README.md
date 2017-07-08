@@ -1,2 +1,1 @@
-"# Case_Simulator" 
-"# Case_Simulator" 
+Simple CS:GO Case Simulator
